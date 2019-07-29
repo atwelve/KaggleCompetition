@@ -1,2 +1,4 @@
 # hello-word
-Just start github
+Hi, visitors!
+
+I like cplusplus and python
