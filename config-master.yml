@@ -1,1 +1,2 @@
-
+config:
+  info: "master branch: config-master.yml version=1"
